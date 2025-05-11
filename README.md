@@ -34,4 +34,4 @@ make run
 8. Exit
 Enter your choice: 1
 ```
-* Repeat until exit (8)
+* Repeat until you want to exit (8)
